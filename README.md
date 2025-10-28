@@ -7,7 +7,10 @@ CS student exploring the world of programming. Experimenting with different tech
 Skills: PYTHON / C++
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning **Python Core**: OOP, Algorithms & Data Structures • **Web Fundamentals**: HTML, CSS & JavaScript basics   • **Tools**: Git, Command Line, VS Code • **English**: Improving for technical documentation 
+- 🌱 I’m currently learning **Python Core**: OOP, Algorithms & Data Structures
+- • **Web Fundamentals**: HTML, CSS & JavaScript basics
+-  • **Tools**: Git, Command Line, VS Code
+-  • **English**: Improving for technical documentation 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tatyana-maker)  
