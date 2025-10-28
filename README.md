@@ -8,7 +8,7 @@ Skills: PYTHON / C++
 
 - 🔭 I’m currently working on this page. 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AParovyshnaya&theme=cobalt&show_icons=true)
 
 
 
