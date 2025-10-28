@@ -1,4 +1,4 @@
-### Hi there 👋, Hey! My name is Tanya!
+### Hi there 👋! My name is Tanya!
 #### I am Beginner Programmer 
 ![I am Beginner Programmer ](https://i0.wp.com/awaywithwords.co/wp-content/uploads/2018/06/contribute-open-source-github.png?w=2000&ssl=1)
 
