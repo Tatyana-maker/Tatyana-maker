@@ -7,8 +7,17 @@ CS student exploring the world of programming. Experimenting with different tech
 Skills: PYTHON / C++
 
 - 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning **Python Core**: OOP, Algorithms & Data Structures • **Web Fundamentals**: HTML, CSS & JavaScript basics   • **Tools**: Git, Command Line, VS Code • **English**: Improving for technical documentation 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AParovyshnaya&theme=cobalt&show_icons=true)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tatyana-maker)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatyana-maker)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tatyana-maker&show_icons=true)  
+
+
+
 
 
 
